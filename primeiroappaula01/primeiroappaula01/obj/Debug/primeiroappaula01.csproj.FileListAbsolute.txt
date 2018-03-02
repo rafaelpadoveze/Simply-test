@@ -4,3 +4,9 @@ C:\Users\Rafael\Documents\Visual Studio 2012\Projects\primeiroappaula01\primeiro
 C:\Users\Rafael\Documents\Visual Studio 2012\Projects\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Documents\Visual Studio 2012\Projects\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.exe
 C:\Users\Rafael\Documents\Visual Studio 2012\Projects\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.pdb
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\bin\Debug\primeiroappaula01.exe.config
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.exe
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.pdb
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\bin\Debug\primeiroappaula01.exe
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\bin\Debug\primeiroappaula01.pdb
+C:\Users\Rafael\Documents\projeto aula i1\primeiroappaula01\primeiroappaula01\obj\Debug\primeiroappaula01.csprojResolveAssemblyReference.cache
