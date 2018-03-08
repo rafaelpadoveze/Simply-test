@@ -38,7 +38,7 @@ namespace primeiroappaula01
             n1 = int.Parse(Console.ReadLine());
             Console.Write("outro numero: ");
             n2 = int.Parse(Console.ReadLine());
-            Console.Write("\nDigite 1 para somar \n2 para subtrair \n3 para dividir \n4 para multiplicar \nou 5 para sair....");
+            Console.Write("\nDigite 1 para somar \n2 para subtrair \n3 para multiplicar \n4 para dividir \nou 5 para sair....");
             ope = int.Parse(Console.ReadLine());
             if (ope == 1)
             {
