@@ -1,0 +1,6 @@
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\bin\Debug\aula2.exe.config
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\bin\Debug\aula2.exe
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\bin\Debug\aula2.pdb
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\obj\Debug\aula2.exe
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\obj\Debug\aula2.pdb
+C:\Users\fpi.8429996560\Desktop\aula2\aula2\obj\Debug\aula2.csprojResolveAssemblyReference.cache
