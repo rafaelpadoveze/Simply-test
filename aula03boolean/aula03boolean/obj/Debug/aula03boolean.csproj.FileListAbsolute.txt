@@ -1,0 +1,6 @@
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\bin\Debug\aula03boolean.exe.config
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\obj\Debug\aula03boolean.csprojResolveAssemblyReference.cache
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\bin\Debug\aula03boolean.exe
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\bin\Debug\aula03boolean.pdb
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\obj\Debug\aula03boolean.exe
+C:\Users\professor\Desktop\CK\aula03boolean\aula03boolean\obj\Debug\aula03boolean.pdb
