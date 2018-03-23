@@ -1,0 +1,6 @@
+C:\Users\professor\Desktop\AULA4\AULA4\bin\Debug\AULA4.exe.config
+C:\Users\professor\Desktop\AULA4\AULA4\obj\Debug\AULA4.csprojResolveAssemblyReference.cache
+C:\Users\professor\Desktop\AULA4\AULA4\bin\Debug\AULA4.exe
+C:\Users\professor\Desktop\AULA4\AULA4\bin\Debug\AULA4.pdb
+C:\Users\professor\Desktop\AULA4\AULA4\obj\Debug\AULA4.exe
+C:\Users\professor\Desktop\AULA4\AULA4\obj\Debug\AULA4.pdb
